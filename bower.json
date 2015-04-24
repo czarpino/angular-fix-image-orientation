@@ -1,0 +1,10 @@
+{
+    "name": "angular-fix-image-orientation",
+    "version": "1.0.0",
+    "description": "Fix image orientation by reading image exif data and applying appropriate CSS transformations.",
+    "author": "Czar Pino",
+    "license": "MIT",
+    "dependencies": {
+        "exif-js": "jseidelin/exif-js"
+    }
+}
