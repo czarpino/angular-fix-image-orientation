@@ -12,7 +12,7 @@
         return {
             restrict: 'A',
             scope: {
-                'imgFixOrientation': '='
+                'imgFixOrientation': '@'
             },
             link: linkLogic
         };
